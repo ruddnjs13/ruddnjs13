@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 <br>
 <br>
-<br>
 
 [![ruddnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddnjs13)](https://github.com/anuraghazra/github-readme-stats)
 </div>
