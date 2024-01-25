@@ -22,8 +22,9 @@
 <br>
 <br>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)<br/>
 
+[![Solved.ac
+ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)
 
 </div>
 <br>
