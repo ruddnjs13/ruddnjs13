@@ -8,7 +8,7 @@
 <br>
 
 
-<h1> 📚Learning Language & platform📖 
+<h1> 📚Learning Language & Platform📖 
 <br>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
