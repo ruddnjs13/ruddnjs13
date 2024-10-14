@@ -26,12 +26,10 @@
 <br>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+
 [![Solved.ac
 ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)
 
 </div>
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruddnjs13%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
