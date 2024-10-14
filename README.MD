@@ -25,6 +25,8 @@
 <h1> 🐈‍⬛My Beakjun🐈‍⬛
 <br>
 <br>
+[![Solved.ac
+ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)
 
 <h1> 🐈‍⬛My Streak🐈‍⬛
 <br>
@@ -32,8 +34,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruddnjs13&theme=dark)](https://git.io/streak-stats)
 
-[![Solved.ac
-ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)
+
 
 </div>
 <br>
