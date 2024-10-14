@@ -18,6 +18,7 @@
 <h1> 🐈‍⬛My GithubStat🐈‍⬛
 <br>
 
+
 [![ruddnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddnjs13)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -25,15 +26,18 @@
 <h1> 🐈‍⬛My Beakjun🐈‍⬛
 <br>
 
+
 [![Solved.ac
 ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)
 
-<br>
 
+<br>
 <h1> 🐈‍⬛My Streak🐈‍⬛
 <br>
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruddnjs13&theme=dark)](https://git.io/streak-stats)
+
 
 <br>
 </div>
