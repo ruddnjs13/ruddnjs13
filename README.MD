@@ -19,10 +19,11 @@
 <h1> 🐈‍⬛My GithubStat🐈‍⬛
 <br>
 <br>
+[![ruddnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddnjs13)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <br>
-[![ruddnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddnjs13)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <h1> 🐈‍⬛My Beakjun🐈‍⬛
 <br>
