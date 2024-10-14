@@ -17,6 +17,7 @@
 <br>
 <h1> 🐈‍⬛My GithubStat🐈‍⬛
 <br>
+<br>
 
 
 [![ruddnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddnjs13)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,6 +25,7 @@
 
 <br>
 <h1> 🐈‍⬛My Beakjun🐈‍⬛
+<br>
 <br>
 
 
@@ -33,6 +35,7 @@ ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solv
 
 <br>
 <h1> 🐈‍⬛My Streak🐈‍⬛
+<br>
 <br>
 
 
