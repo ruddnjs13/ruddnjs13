@@ -48,3 +48,7 @@ ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solv
 <br>
 </div>
 <br>
+
+<h1> My Develop Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?ruddnjs13=velopert)](https://github.com/eungyeole/velog-readme-stats)
+
