@@ -40,8 +40,7 @@ ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solv
 <br>
 <br>
 
-<h1> My Develop Blog
-https://velog.io/@ruddnjs13/series
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruddnjs13&theme=dark)](https://git.io/streak-stats)
 
