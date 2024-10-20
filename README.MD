@@ -52,7 +52,7 @@ ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solv
 <br>
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ruddnjs13)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ruddnjs13)](https://velog.io/@ruddnjs13/posts)
 
 <br>
 </div>
