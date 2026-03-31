@@ -17,7 +17,7 @@
 <br>
 
 <br>
-<h1> 🐈‍⬛My Beakjun🐈‍⬛
+<h1> 🦕My Beakjun🦕
 <br>
 <br>
 
@@ -27,7 +27,7 @@ ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solv
 
 
 <br>
-<h1> 🐈‍⬛My Streak🐈‍⬛
+<h1> 🦕My Streak🦕
 <br>
 <br>
 
