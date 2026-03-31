@@ -15,13 +15,6 @@
 <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 <br>
-<h1> 🐈‍⬛My GithubStat🐈‍⬛
-<br>
-<br>
-
-
-[![ruddnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddnjs13)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br>
 <h1> 🐈‍⬛My Beakjun🐈‍⬛
