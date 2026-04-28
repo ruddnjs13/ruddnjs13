@@ -44,18 +44,6 @@
 
 
 
-
-
-[![Solved.ac
-
-ruddnjs](http://mazassumnida.wtf/api/generate_badge?boj=ruddnjs13)](https://solved.ac/ruddnjs13)
-
-
-
-
-
-<br>
-
 <h1> 🦕My Streak🦕
 
 <br>
