@@ -36,12 +36,6 @@
 
 <br>
 
-<h1> 🦕My Beakjun🦕
-
-<br>
-
-<br>
-
 
 
 <h1> 🦕My Streak🦕
